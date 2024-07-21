@@ -12,7 +12,7 @@ Imagine that model behind dashboard, is lost somehow. You need to rebuilt it. Yo
 
 In this situation, we've got checklist that you can follow (or not):
 	- Begin a new project in dbt Cloud, utilizing Google Big Query as the DWH.
-	- Use the raw data from the ad platforms and the MCDM table structure for the ads_basic_performance report.
+	- Use the raw data from the ad platforms and the MCDM table structure for the ads_basic_performance report
 
 ### How to Submit
 please submit results via this form https://form.typeform.com/to/IP3EsX0N any question via: telegram:@kobzevvv  
